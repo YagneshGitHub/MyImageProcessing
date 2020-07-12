@@ -1,0 +1,61 @@
+h1 {
+  font-family:verdena;
+  font-size : 50px;
+  
+}
+h2 {
+  font-family:verdena;
+  font-size : 35px;
+  
+}
+
+
+body{
+   background-color: #ffe6ff;
+   margin : auto;
+   text-align: center;
+  
+}
+
+canvas{
+  width:400px;
+  height:200px;
+  border:2px solid #9c4be7;
+    }
+
+
+#gray{
+  filter: grayscale(100%);
+  font-size:20px;
+  border:2px solid gray;
+  
+}
+
+#red{
+  font-size:20px;
+  border:2px solid red;
+  background-color: #F70737;
+}
+#modred{
+  font-size:20px;
+  border:2px solid red;
+  background-color: #F70737;
+}
+
+#reset{
+  font-size:20px;
+  border:2px solid blue;
+  background-color: gray;
+  }
+#blur{
+  filter: blur(1px);
+  font-size:20px;
+  border:2px solid blue;
+  background-color: #3FBFBF;
+  }
+#rainbow{
+  
+  font-size:20px;
+  border:2px solid blue;
+  background-color: #F2F249;
+  }
